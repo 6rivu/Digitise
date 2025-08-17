@@ -1,3 +1,5 @@
+Digitization of Handwritten Mathematical Documents
+
 The project digitizes handwritten mathematical documents by
 generating LaTeX using deep learning models. It includes data
 preprocessing, improving accuracy by fine-tuning pre-trained
